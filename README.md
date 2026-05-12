@@ -11,9 +11,9 @@ Repositorio con un script Python muy simple que pide dos números al usuario y m
 - Python 3
 
 ## Uso
-1. Abrir terminal en la carpeta del proyecto:
+1. Clonar repositorio:
    ```
-   cd c:\Users\JM\Documents\GitHub\CLASE_11_06_26
+   git clone https://github.com/Jhoelink/CLASE_11_06_26
    ```
 2. (Opcional) Renombrar `codigo.txt` a `codigo.py`:
    ```
