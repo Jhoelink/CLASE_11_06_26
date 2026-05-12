@@ -1,0 +1,16 @@
+
+def sumar(a, b):
+    return a + b
+
+def pedir_numero(mensaje):
+    while True:
+        try:
+            return float(input(mensaje))
+        except ValueError:
+            print("Entrada inválida. Intenta de nuevo.")
+
+if __name__ == "__main__":
+    print("Suma sencilla")
+    a = pedir_numero("Ingresa el primer número: ")
+    b = pedir_numero("Ingresa el segundo número: ")
+    print(f"Resultado: {sumar(a, b)}")
