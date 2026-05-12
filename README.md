@@ -1,3 +1,6 @@
+## Nombre
+* WIlliam Joel Macias Muñoz
+
 # Suma sencilla
 
 Repositorio con un script Python muy simple que pide dos números al usuario y muestra su suma.
